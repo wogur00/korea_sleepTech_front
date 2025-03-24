@@ -1,0 +1,25 @@
+{
+  "name": "korea_sleeptech_front",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wogur00/korea_sleepTech_front"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wogur00/korea_sleepTech_front/issues"
+  },
+  "homepage": "https://github.com/wogur00/korea_sleepTech_front#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.2"
+  }
+}
